@@ -6,6 +6,7 @@ Upcoming Software Developer
 *   🌍  I'm based in Philippines
 *   🖥️  See my portfolio at [flacko.com](http://flacko.com/)
 *   ✉️  You can contact me at [flackoarchive@proton.me](mailto:flackoarchive@proton.me)
+*   📚  Currently studying DSA
   
 ### Skills
 <p align="left">
