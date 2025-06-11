@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Upcoming Freshman
 
 *   🌍  I'm based in Philippines
-*   🖥️  See my portfolio at [flacko.com](http://flacko.com/)
+*   🖥️  Currently working for an AI-based Project
 *   ✉️  You can contact me at [flackoarchive@proton.me](mailto:flackoarchive@proton.me)
   
 ### Skills
